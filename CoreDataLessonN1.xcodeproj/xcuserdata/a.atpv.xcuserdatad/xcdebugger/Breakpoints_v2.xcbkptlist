@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4CBCEF6-3EF3-4BDD-A07F-A6C870018CE8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88DA2F7F-1FB9-4AAD-A44A-98740272FF11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "addTask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88DA2F7F-1FB9-4AAD-A44A-98740272FF11 - 21b0febe5584c818"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ViewController.getTasks() -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "88DA2F7F-1FB9-4AAD-A44A-98740272FF11 - f6b026c29f514cc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ViewController.addTask() -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7E20424-5FBA-4D81-8076-D6E691984C31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getTasks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7E20424-5FBA-4D81-8076-D6E691984C31 - 21b0febe5584cf9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ViewController.getTasks() -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B7E20424-5FBA-4D81-8076-D6E691984C31 - 21b0febe5584cf9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ViewController.getTasks() -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07BBC85C-FD71-4FD3-81FC-B3912EA8E781"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/CoreData&lt;anager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "createTask(name:deadline:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07BBC85C-FD71-4FD3-81FC-B3912EA8E781 - 2b228d984901f0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.CoreDataManager.createTask(name: Swift.String, deadline: Foundation.Date) -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/CoreData%3Canager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "07BBC85C-FD71-4FD3-81FC-B3912EA8E781 - 2b228d984901f0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.CoreDataManager.createTask(name: Swift.String, deadline: Foundation.Date) -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/CoreData%3Canager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33D1E00B-EFD1-4984-925C-DF644E95B9CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/CoreData&lt;anager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "saveContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38CAF66A-A84D-4BD6-BEC9-C89A3E3E1C04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/CoreData&lt;anager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "saveContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "915C0117-BD45-4830-99E7-9C6719CA5226"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/CoreData&lt;anager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getTasks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "353C4379-09FA-4711-8077-140608770D20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/CoreData&lt;anager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getTasks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4D60428-EA2C-4444-BDD6-AC80EB699216"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/ToDoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "configure(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4D60428-EA2C-4444-BDD6-AC80EB699216 - 1aa426d9630682c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ToDoCell.configure(CoreDataLessonN1.TodoListTask) -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ToDoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1516">
+               </Location>
+               <Location
+                  uuid = "D4D60428-EA2C-4444-BDD6-AC80EB699216 - 1aa426d9630682c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ToDoCell.configure(CoreDataLessonN1.TodoListTask) -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ToDoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "199D6C79-4921-46BD-B3C5-A34B3E426E36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "checkTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3BBCA82-604F-45E2-8341-9BE98267C81C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataLessonN1/ToDoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "imageTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3BBCA82-604F-45E2-8341-9BE98267C81C - 7496e2201fa851cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ToDoCell.imageTapped() -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ToDoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "C3BBCA82-604F-45E2-8341-9BE98267C81C - 7496e2201fa851cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataLessonN1.ToDoCell.imageTapped() -&gt; ()"
+                  moduleName = "CoreDataLessonN1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/CoreDataLessonN1/CoreDataLessonN1/ToDoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
